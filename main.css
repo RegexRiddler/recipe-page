@@ -196,7 +196,6 @@ th {
     position: fixed;
     bottom: 0;
     left: 0;
-    font-size: 11px;
     color: var(--black); 
     text-align: center; 
     background-color: rgb(240, 240, 240);
@@ -205,6 +204,10 @@ th {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+
+.attribution p {
+    font-size: 11px;
 }
 
 @media (min-width: 736px) {
