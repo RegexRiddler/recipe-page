@@ -224,6 +224,11 @@ th {
         padding-bottom: 0;
     }
 
+    .recipe {
+        padding: 40px;
+        padding-top: 0;
+    }
+
     .recipe-img {
         border-radius: 12px;
     }
