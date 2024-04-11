@@ -186,7 +186,7 @@ th {
         transition: all .4s ease;
     }
 
-    .wrapper > div {
+    .wrapper > header {
         padding: 40px;
         padding-bottom: 0;
     }
