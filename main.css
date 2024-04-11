@@ -90,7 +90,6 @@ ul, ol {
 }
 
 ul li::marker {
-    /* content: "•"; */
     color: var(--brandy-red);
     font-size: 12px;
 }
@@ -199,6 +198,10 @@ th {
 
     main {
         padding: 40px;
+    }
+
+    .recipe-title {
+        font-size: 40px;
     }
 
     .recipe-preparation {
