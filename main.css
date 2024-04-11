@@ -186,7 +186,7 @@ th {
         transition: all .4s ease;
     }
 
-    figure {
+    .wrapper > div {
         padding: 40px;
         padding-bottom: 0;
     }
